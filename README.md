@@ -1,4 +1,4 @@
-# Olá eu sou Jacson 👋]
+# Olá eu sou Jacson 👋
 
 Amo programar e estou sempre praticando! procuro desenvolver cada vez mais minhas habilidades em programação e conquistar o tão sonhado emprego nesta área.
 

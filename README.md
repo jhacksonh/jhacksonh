@@ -17,6 +17,7 @@ Amo programar e estou sempre praticando! procuro desenvolver cada vez mais minha
         <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
         <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+        <img align="center" alt="C" src="https://img.shields.io/badge/C-0010F5?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
 <div style="margin:15px 0">
